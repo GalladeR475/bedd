@@ -1,3 +1,5 @@
+# Makefile by GalladeR475 (cgl4de)
+
 exec = bedd.out
 srcs = $(wildcard src/*.c)
 objs = $(srcs:.c=.o)

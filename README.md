@@ -14,8 +14,7 @@ provides builtin help in the form of a welcome screen with all the shortcuts pre
 ### Make sure you have installed 'make' before running the next few steps!
 
 ```sh
-$ git clone https://www.github.com/segfaultdev/bedd/ # Clone this Repository
-$ cd bedd/          # Go to 'Bedd'
+$ cd bedd/          # Go to the 'Bedd' directory
 $ sudo make install # Installs 'Bedd'
 $ bedd              # Run Bedd (Can be done in any directory)
 ```
