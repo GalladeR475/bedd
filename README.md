@@ -11,11 +11,13 @@ provides builtin help in the form of a welcome screen with all the shortcuts pre
 
 ## How to build
 
-Building bedd is as easy as running the provided script in the main source folder:
+### Make sure you have installed 'make' before running the next few steps!
 
 ```sh
-$ sh build.sh # Building it
-$ ./bedd      # Running it afterwards
+$ git clone https://www.github.com/segfaultdev/bedd/ # Clone this Repository
+$ cd bedd/          # Go to 'Bedd'
+$ sudo make install # Installs 'Bedd'
+$ bedd              # Run Bedd (Can be done in any directory)
 ```
 
 ## Licensing
