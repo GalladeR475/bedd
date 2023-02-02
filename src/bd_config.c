@@ -1,5 +1,5 @@
-#include <bedd.h>
-#include <io.h>
+#include "../include/bedd.h"
+#include "../include/io.h"
 
 bd_config_t bd_config = (bd_config_t){
   .indent_width = 2,

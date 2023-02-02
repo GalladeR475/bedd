@@ -1,7 +1,7 @@
 #include <string.h>
-#include <bedd.h>
 #include <time.h>
-#include <io.h>
+#include "../include/bedd.h"
+#include "../include/io.h"
 
 void bd_global_draw(void) {
   io_cursor(0, 0);

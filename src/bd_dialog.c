@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include <bedd.h>
-#include <io.h>
+#include "../include/bedd.h"
+#include "../include/io.h"
 
 int bd_dialog(const char *title, int __width, const char *format, ...) {
   int dialog_draw = 1;

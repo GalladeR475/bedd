@@ -1,6 +1,6 @@
 #include <string.h>
-#include <bedd.h>
-#include <io.h>
+#include "../include/bedd.h"
+#include "../include/io.h"
 
 void bd_welcome_draw(bd_view_t *view) {
   io_cursor(0, 2);

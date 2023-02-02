@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
-#include <bedd.h>
-#include <io.h>
+#include "../include/bedd.h"
+#include "../include/io.h"
 
 typedef struct bd_entry_t bd_entry_t;
 typedef struct bd_explore_t bd_explore_t;

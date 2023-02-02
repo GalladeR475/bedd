@@ -1,5 +1,5 @@
 #include <string.h>
-#include <syntax.h>
+#include "../include/syntax.h"
 
 // COBOL
 
